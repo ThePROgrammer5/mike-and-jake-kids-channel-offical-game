@@ -1,0 +1,11 @@
+#mouth {
+    background-image: url(mouth.png);
+}
+
+#tool {
+    background-image: url(thermomenter.png);
+    background-position: center;
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
